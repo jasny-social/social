@@ -30,7 +30,7 @@ var_dump($twitter->get('statuses/user_timeline'));
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
 
-        <link rel="stylesheet" href="http://jasny.github.com/bootstrap/assets/css/bootstrap.css" />
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
     </head>
     <body style="padding-top: 60px">
         <div class="navbar navbar-fixed-top">
