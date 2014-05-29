@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "feb5792d29005508f502b77ebd06c01d",
+    "packages": [
+        {
+            "name": "jasny/iso",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jasny/iso.git",
+                "reference": "bafa44d82675647459ad801c3ec7181abdb2dc80"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jasny/iso/zipball/bafa44d82675647459ad801c3ec7181abdb2dc80",
+                "reference": "bafa44d82675647459ad801c3ec7181abdb2dc80",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Jasny\\ISO": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2014-04-13 18:55:15"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jasny/iso": 20
+    },
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": [
+
+    ]
+}
